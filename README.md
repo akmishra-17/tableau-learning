@@ -22,7 +22,7 @@ Today I practiced Tableau by creating multiple sheets and visualizations using a
 - Excel
 
 ## 🎯 Purpose
-This repository documents my daily learning progress in Tableau and helps build a visible data analytics portfolio.
+This Repository documents my daily learning progress in Tableau and helps build a visible data analytics portfolio.
 
 ## 📸 Preview
-Screenshots of the Tableau sheets are available in the `screenshots/` folder.
+Screenshots of the Tableau Sheets are available in the `screenshots/` folder.
